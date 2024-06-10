@@ -15,10 +15,10 @@ The Image Converter project is a Java-based desktop application that allows user
 
 ## File path
 
-demo/
-├── src/main/java
-│             └── MainGUI.java
-├── resources/classes
-│               └── (image resources, if any)
+demo/<br>
+├── src/main/java<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── MainGUI.java<br>
+├── resources/classes<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── (image resources, if any)<br>
 └── README.md
 
