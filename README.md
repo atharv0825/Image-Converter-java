@@ -23,7 +23,7 @@ demo/<br>
 └── README.md
 
 ## NOTE
-- MainGUI is you main code & all the resource classes that are need are stored in the Folder resource.
+- MainGUI is your main code & all the resource classes that are need are stored in the Folder resource.
 - For pdf creation you need to create dependency first and then you can create.
 - before creation of dependency download dependencies of PDFBox.Apache from https://pdfbox.apache.org/.You can use above pom.xml file for reference. 
 
