@@ -19,7 +19,7 @@ demo/<br>
 ├── src/main/java<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── MainGUI.java<br>
 ├── resources/classes<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── (image resources, if any)<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── (classes & pom.xml)<br>
 └── README.md
 
 ## NOTE
